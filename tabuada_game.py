@@ -3,9 +3,9 @@ from random import randint
 class Tabuada:
 
     def mensagem_inicio(self):
-        print('=====================================')
-        print('= Bem vindo a tabuada school cAsper =')
-        print('=====================================')
+        print('==============================================')
+        print('= Bem vindo a tabuada school Asper Computing =')
+        print('==============================================')
 
     def tabuada_nvl_1(self):
         n1 = (randint(1,10))
